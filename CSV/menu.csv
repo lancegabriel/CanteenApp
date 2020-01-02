@@ -1,0 +1,21 @@
+item,price,type,store
+Teh-O kosong,$1.00 ,breakfast,beverage
+Teh-Peng,$2.00 ,breakfast,beverage
+Teh-C ,$3.00 ,breakfast,beverage
+Teh Halia,$1.00 ,breakfast,beverage
+Milo Peng,$1.50 ,breakfast,beverage
+Fruit Juice,$1.00 ,lunch,beverage
+Steamed Chicken Rice,$3.50 ,breakfast,chicken rice
+Roasted Chicken Rice,$3.50 ,breakfast,chicken rice
+1 Whole Chicken,$20 ,lunch,chicken rice
+Ngor Hiang,$1.20 ,breakfast,vegetarian
+Cabbage ,$0.60 ,breakfast,vegetarian
+Popiah,$1.50 ,lunch,vegetarian
+Prata,$1.20 ,breakfast,indian
+Thosai,$1.50 ,breakfast,indian
+Murtabak,$5.00 ,lunch,indian
+Nasi Goreng,$5.00 ,lunch,indian
+Mee Rebus,$1.20 ,breakfast,muslim
+Mee Soto,$1.50 ,breakfast,muslim
+Nasi Padang,$5.00 ,lunch,muslim
+Nasi Lemak,$3.50 ,lunch,muslim
